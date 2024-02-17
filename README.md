@@ -3,6 +3,7 @@
 <img src="./invoice.png"/>
 # How to use
 - Creating an Invoice
+  
 ```js
 const { createInvoice } = require("ez-invoice")
 const { createWriteStream } = require("fs")
