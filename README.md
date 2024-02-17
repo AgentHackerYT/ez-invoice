@@ -1,6 +1,7 @@
 # Ez Invoice
 - A Simple Invoice Generator for starters
 <img src="./invoice.png"/>
+
 # How to use
 - Creating an Invoice
   
